@@ -2,4 +2,4 @@
 PowerBi Dashboard
 
 # Screenshot of the dashboard
-[Screenshot](./dashboard.png)
+![Screenshot](./dashboard.png)
